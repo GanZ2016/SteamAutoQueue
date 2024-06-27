@@ -2,5 +2,4 @@ selenium == 3.8.1
 requests
 tqdm
 redis
-msedge-selenium-tools
 sentry-sdk
