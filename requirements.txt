@@ -1,4 +1,4 @@
-selenium
+selenium <= 3.3.1
 requests
 tqdm
 redis
